@@ -10,5 +10,5 @@ In here you will find
   - Complete the EDA with Visualization
   - Interactive Visual Analytics with Folium
   - Machine Learning Prediction lab, 
-3. All python code from this project
+2. All python code from this project
   - myInteractiveDashboard.py (for Build an Interactive Dashboard with Ploty Dash)
